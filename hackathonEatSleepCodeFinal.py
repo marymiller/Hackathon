@@ -1,4 +1,4 @@
-#Prepare yourself for the worst written code you have ever seen somehow it works I think we dont even know anymore
+#somehow it works I think we dont even know anymore
 #Thank you
 
 #By: Eat, Sleep, Code   -   Robert Rizzacasa, Mary Miller, Zach Meath
