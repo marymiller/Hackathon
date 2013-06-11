@@ -1,4 +1,3 @@
-#Prepare yourself for extremly confusing and innefficient code
 #somehow it works I think we dont even know anymore
 #Thank you
 
